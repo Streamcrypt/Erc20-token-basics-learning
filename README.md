@@ -41,7 +41,7 @@ This repository contains sample contracts to learn how **ERC20 tokens** work and
 * Go to the deployed **ERC20 contract**.
 * Call the `approve` function:
 
-  * `_spender` → paste the **staking contract address**.
+  * `_spender` → paste the **deployed Simplestaking contract address**.
   * `_value` → type how many tokens you want to allow for staking.
 * This step gives the staking contract permission to use your tokens.
 
@@ -81,5 +81,3 @@ Work in progress:
 
 * `TokenSale.sol`
 * `TokenSaleFaucet.sol`
-
-Do you want me to also **add Remix step-by-step instructions with the exact buttons/inputs to click** (like “go to Deployed Contracts → approve → enter values”)? That would make it even more beginner-friendly.
