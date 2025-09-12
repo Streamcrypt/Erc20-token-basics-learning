@@ -6,10 +6,10 @@ This repository contains sample contracts to learn how **ERC20 tokens** work and
 
 ## Contracts
 
-* **Erc20\_token.sol**
+* **Erc20\_token.sol**:
   Basic ERC20 implementation with balances, transfers, approvals, and allowances.
 
-* **SimpleStaking.sol**
+* **SimpleStaking.sol**:
   Lets users stake and unstake ERC20 tokens after approval.
 
 ---
