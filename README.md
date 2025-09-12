@@ -65,7 +65,7 @@ This repository contains sample contracts to learn how **ERC20 tokens** work and
   * `amount` → type how many tokens you want to withdraw from staking.
 * Your tokens will be sent back to your wallet.
  
-# 6. Confirmation of Steps
+### 6. Confirmation of Steps
 
 * To confirm that everything worked:
 
