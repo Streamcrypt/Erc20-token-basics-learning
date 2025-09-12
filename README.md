@@ -64,6 +64,31 @@ This repository contains sample contracts to learn how **ERC20 tokens** work and
 
   * `amount` → type how many tokens you want to withdraw from staking.
 * Your tokens will be sent back to your wallet.
+ 
+# 6. Confirmation of Steps
+
+* To confirm that everything worked:
+
+  1. Go to your deployed **ERC20 contract**.
+  2. Call the `balanceOf` function.
+  3. Paste the **staking contract address** as the input.
+  4. If successful, it will return the same amount of tokens you staked.
+
+* If the confirmation fails:
+
+  * Use ChatGPT (or any AI/tool of your choice) to help retrace the steps.
+  * Once it works, start exploring the logic yourself — this is how you’ll really see why the ERC20 token contract is important.
+
+---
+
+## Advice for Learners
+
+* After following the setup steps, take time to **figure out each logic yourself**.
+* Solidity syntax can be confusing at first — if you don’t understand something:
+
+  * Ask ChatGPT (or any tool) to give you a **simplified sample code**, or
+  * Write your **own mini example** and observe how it behaves.
+* Don’t rely only on theory — **practical testing and proving concepts are far more valuable**.
 
 ---
 
