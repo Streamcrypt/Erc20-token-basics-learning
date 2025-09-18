@@ -1,7 +1,7 @@
 ---
 
 ### About
-
+---
 This repository contains a basic ERC20 token implementation and a simple staking contract to demonstrate how tokens and staking logic interact.
 
 * **Erc20\_token.sol** → A minimal ERC20-compliant token with balances, transfers, approvals, and allowances.
@@ -9,4 +9,3 @@ This repository contains a basic ERC20 token implementation and a simple staking
 
 The repo is intended for learning and experimenting with ERC20 mechanics and staking flow (approve → stake → unstake).
 
----
